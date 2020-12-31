@@ -1,0 +1,206 @@
+.container {
+	padding: 0 20px;
+}
+
+.min-contact {
+	display: block;
+	text-align: center;
+}
+
+.socialmedia {
+	margin-bottom: 5px;
+}
+
+.callto {
+	margin-top: 5px;
+}
+
+.logo  img {
+	width: 50px;
+}
+
+.logo strong {
+	font-size: 17px;
+}
+
+.logo span {
+	font-size: 12px;
+}
+
+
+
+nav {
+	padding: 10px 0;
+	height: auto;
+}
+
+nav .container {
+	flex-direction: column;
+}
+
+nav .container .navtab {
+	padding-top: 15px;
+}
+
+nav .container .navtab ul {
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+}
+
+.nav {
+	height: auto;
+}
+
+.navtab ul li {
+	padding-right: 0px;
+}
+
+.cd-radial-slider-content .wrapper div h2 {
+	font-size: 22px;
+	text-transform: capitalize;
+}
+
+.cd-radial-slider-content .wrapper div p {
+	font-size: 16px;
+}
+
+#slider {
+	height: 350px;
+}
+
+#slider .slide .content {
+    padding-right: 30px;
+    padding-left: 30px;
+
+}
+.slide .content h1 {
+	font-size: 35px;
+	line-height: 40px;
+}
+
+.slide .content p {
+	padding: 20px 30px 0 30px; 
+	font-size: 15px;
+}
+
+.services {
+	padding-top: 40px;
+}
+
+.services .container h1 {
+	font-size: 22px;
+}
+
+.columnf {
+	display: block;
+}
+
+.column {
+	padding-bottom: 25px;
+}
+
+.columnf .column .fa {
+	font-size: 50px;
+	padding-bottom: 15px;
+}
+
+.columnf .column h1 {
+	font-size: 15px;
+	padding-bottom: 10px;
+}
+
+.columnf .column p {
+	font-size: 14px;
+}
+
+.our_services {
+	margin-top: 0px;
+	padding: 30px 0;
+}
+
+.our_services .container h1 {
+	font-size: 22px;
+	padding: 0 20px;
+}
+
+.our_services .servicesin img {
+	margin: 0px 10px;
+}
+
+.about {
+	text-align: center;
+	padding: 30px 0;
+}
+
+.about .container h1 {
+	font-size: 22px;
+}
+
+.about .container h4 {
+	font-size: 15px;
+}
+
+.about .container p {
+	font-size: 13px;
+	line-height: 1.5;
+}
+
+.recrutement {
+	padding: 30px 0;
+}
+
+.recrutement .container h1 {
+	font-size: 22px;
+}
+
+.recrutement p {
+	padding: 10px 0;
+}
+
+.recrutement form {
+	width: 100%;
+}
+
+.recrutement form label {
+	font-size: 16px;
+	padding: 20px;
+	width: 100%;
+	display: block;
+}
+
+.recrutement form button {
+	text-transform: uppercase;
+	width: 100%;
+}
+
+.form {
+	padding-bottom: 40px;
+}
+
+.form .container .text {
+	float: none;
+	width: 100%;
+	height: 350px;
+	margin-bottom: 30px;
+	margin-top: 0px;
+}
+
+.form .container .text h2 {
+	font-size: 22px;
+}
+
+.form .container .text p {
+	font-size: 15px;
+}
+
+.form .container form#contact {
+	float: none;
+	width: 100%;
+	margin: 0px;
+}
+
+
+
+
+
